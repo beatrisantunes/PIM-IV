@@ -1,4 +1,4 @@
-<h1> PIM-IV </h1>
+<h1 align = center> PIM-IV </h1>
 
 ***Curso Análise e Desenvolvimento de Sistemas, UNIP 2022***
 
