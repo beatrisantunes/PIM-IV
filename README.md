@@ -49,7 +49,7 @@ sudo apt install codeblocks --install-suggests
 
 2 - Clone este repositório. No Linux, abra o terminal e digite:
 ```
-git clone https://github.com/biancaantunes98/PIM-IV.git
+git clone https://github.com/beatrisantunes/PIM-IV.git
 ```
 
 3 - No seu gerenciador de arquivos, navegue até o diretório PIM-IV e abra o arquivo 'pim.cbp' utilizando o CodeBlocks. O projeto será aberto.
