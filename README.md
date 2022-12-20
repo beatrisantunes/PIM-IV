@@ -60,6 +60,9 @@ sudo apt install codeblocks --install-suggests
 ## 🔗Link Parte Escrita:
 [Projeto ](https://github.com/beatrisantunes/PIM-IV/blob/main/PROJETO%20CADASTRO%20DE%20PACIENTES%20DA%20COVID-19%20EM%20C.docx)
 
+## 💻🛠 Tecnologias e Ferramentas:
+- C
+- Git e Github
 
 ## 📌 Resultado:
 
@@ -98,3 +101,7 @@ sudo apt install codeblocks --install-suggests
 9 - Ao preencher todas as informações e pressionar enter o programa irá perguntar se deseja salvar:
 
 <img width="500" src="https://i.imgur.com/4iLWNQ8.png">
+
+> Telas do software
+
+Software operando em CodeBlocks.
